@@ -254,7 +254,7 @@ A partial view is a view that can be displayed in on page with other partial vie
 
 Here I created a partial view to display Schedules in the dashboard. This view takes advantage of User Roles to allow a Worker to view the Schedule, but only a manager is given the option to edit.
 
-![alt text](.png "Logo Title Text 1")
+![schedule view](construction.png "Schedule Partial View")
 
 
 ```
